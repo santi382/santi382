@@ -35,13 +35,24 @@ El salón lo usa a diario para agendar citas con abono, llevar el historial y la
 
 POS táctil para una tienda de ropa: las cajeras entran con PIN, buscan productos, eligen talla y color según el stock y cobran con IVA. El código también es privado.
 
-## Proyectos de la universidad
+## Proyecto destacado: red social tipo Instagram
+
+Proyecto de la universidad hecho en dos partes: el backend en Laravel, que desplegamos en Azure, y la app móvil en Ionic que lo usa.
+
+<p align="center">
+  <a href="https://github.com/santi382/insta-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=santi382&repo=insta-api&theme=tokyonight&hide_border=true&locale=es" alt="insta-api" /></a>
+  <a href="https://github.com/santi382/instaIonic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=santi382&repo=instaIonic&theme=tokyonight&hide_border=true&locale=es" alt="instaIonic" /></a>
+</p>
+
+| Parte | Qué hace | Tecnologías |
+|---|---|---|
+| [insta-api](https://github.com/santi382/insta-api) (backend) | Registro, publicaciones, comentarios, likes y amistades | Laravel 12, PHP, Sanctum, Azure |
+| [instaIonic](https://github.com/santi382/instaIonic) (frontend) | Feed, perfil, amigos, publicar, conversaciones y chat | Ionic, Angular 20, Capacitor |
+
+## Otros proyectos de la universidad
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [insta-api](https://github.com/santi382/insta-api) | Backend de una red social tipo Instagram: registro, publicaciones, comentarios, likes y amistades. La desplegamos en Azure | Laravel 12, PHP, Sanctum, Azure |
-| [instaIonic](https://github.com/santi382/instaIonic) | La app móvil de esa red social: feed, perfil, amigos, publicar y chat | Ionic, Angular 20, Capacitor |
-| [Proyecto-Aula](https://github.com/santi382/Proyecto-Aula) | Primera versión de la red social, con la API y la app juntas | Laravel, Ionic, Angular |
 | [PARCIAL](https://github.com/santi382/PARCIAL) | DigiDex, app que consume la Digimon API | Ionic, Angular |
 | [parcial-Desarrollo-de-app](https://github.com/santi382/parcial-Desarrollo-de-app) | Tienda con login, carrito e historial | Ionic, Angular |
 
