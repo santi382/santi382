@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sanchezvargassantiago42@gmail.com"><img src="https://img.shields.io/badge/Correo-sanchezvargassantiago42%40gmail.com-2E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
   <img src="https://img.shields.io/badge/Disponible-para%20trabajar-2ea44f?style=for-the-badge" alt="Disponible para trabajar" />
 </p>
 
