@@ -1,18 +1,40 @@
-# Hola, soy Santiago Sánchez Vargas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:173A5E,100:2E75B6&height=180&section=header&text=Santiago%20S%C3%A1nchez%20Vargas&fontColor=ffffff&fontSize=40&fontAlignY=35" alt="Santiago Sánchez Vargas" />
+</p>
 
-Soy de Neiva, Huila. Soy tecnólogo en Desarrollo de Sistemas de Información y Redes, técnico profesional en Soporte de Sistemas Informáticos y Redes, y estoy en 7° semestre de Ingeniería de Software en la FET.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=2E75B6&center=true&vCenter=true&width=600&lines=Desarrollador+web+y+m%C3%B3vil;Next.js+%7C+Flutter+%7C+Laravel;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Desarrollador web y móvil" />
+</p>
 
-Este año empecé a trabajar como freelance haciendo software para negocios de Neiva. Lo que más me gusta es ver que algo que hice lo usa gente todos los días. Ahora estoy buscando mi primera oportunidad en una empresa para ganar experiencia y seguir aprendiendo.
+<p align="center">
+  <a href="mailto:sanchezvargassantiago42@gmail.com"><img src="https://img.shields.io/badge/Correo-sanchezvargassantiago42%40gmail.com-2E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <img src="https://img.shields.io/badge/Disponible-para%20trabajar-2ea44f?style=for-the-badge" alt="Disponible para trabajar" />
+</p>
+
+## Sobre mí
+
+Soy tecnólogo en Desarrollo de Sistemas de Información y Redes, técnico profesional en Soporte de Sistemas Informáticos y Redes, y estoy en 7° semestre de Ingeniería de Software.
+
+Este año empecé a trabajar como freelance haciendo software para negocios. Lo que más me gusta es ver que algo que hice lo usa gente todos los días. Ahora busco mi primera oportunidad en una empresa para ganar experiencia y seguir aprendiendo. Me apoyo en herramientas de IA para programar.
+
+## Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,dart,html,css,tailwind,react,nextjs&perline=10" alt="Lenguajes y frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=angular,ionic,flutter,laravel,django,supabase,postgres,git,vercel,linux&perline=10" alt="Frameworks y herramientas" />
+</p>
 
 ## En qué estoy trabajando
 
 ### Sistema de gestión para un salón de belleza
+`Next.js` `React` `Supabase` `Vercel`
 
-Next.js, React, Supabase y Vercel. El salón lo usa a diario para agendar citas con abono, llevar el historial y las deudas de las clientas, cobrar en caja con efectivo, Nequi, Bancolombia o fiado, y cuadrar las cuentas cada semana. El código es privado porque es de un cliente.
+El salón lo usa a diario para agendar citas con abono, llevar el historial y las deudas de las clientas, cobrar en caja con efectivo, Nequi, Bancolombia o fiado, y cuadrar las cuentas cada semana. El código es privado porque es de un cliente.
 
 ### Punto de venta para Tienda Celeste
+`Flutter` `Dart`
 
-Flutter. POS táctil para una tienda de ropa: las cajeras entran con PIN, buscan productos, eligen talla y color según el stock y cobran con IVA. El código también es privado.
+POS táctil para una tienda de ropa: las cajeras entran con PIN, buscan productos, eligen talla y color según el stock y cobran con IVA. El código también es privado.
 
 ## Proyectos de la universidad
 
@@ -24,16 +46,17 @@ Flutter. POS táctil para una tienda de ropa: las cajeras entran con PIN, buscan
 | [PARCIAL](https://github.com/santi382/PARCIAL) | DigiDex, app que consume la Digimon API | Ionic, Angular |
 | [parcial-Desarrollo-de-app](https://github.com/santi382/parcial-Desarrollo-de-app) | Tienda con login, carrito e historial | Ionic, Angular |
 
-## Tecnologías que uso
+## Estadísticas
 
-- Lenguajes: JavaScript, TypeScript, PHP, Python y Dart
-- Web y móvil: React, Next.js, Angular, Ionic y Flutter
-- Backend y datos: Laravel, Django, Supabase y PostgreSQL
-- Herramientas: Git, Vercel y Linux
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santi382&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santi382&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</p>
 
-Me apoyo en herramientas de IA para programar.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santi382&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+</p>
 
-## Contacto
-
-- Correo: sanchezvargassantiago42@gmail.com
-- Neiva, Huila, Colombia
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:173A5E&height=100&section=footer" alt="" />
+</p>
