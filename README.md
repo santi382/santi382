@@ -20,7 +20,7 @@ Este año empecé a trabajar como freelance haciendo software para negocios. Lo 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,dart,html,css,tailwind,react,nextjs&perline=10" alt="Lenguajes y frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=angular,ionic,flutter,laravel,django,supabase,postgres,git,vercel,linux&perline=10" alt="Frameworks y herramientas" />
+  <img src="https://skillicons.dev/icons?i=angular,ionic,flutter,laravel,django,supabase,postgres,git,vercel,azure,linux&perline=11" alt="Frameworks y herramientas" />
 </p>
 
 ## En qué estoy trabajando
@@ -39,9 +39,9 @@ POS táctil para una tienda de ropa: las cajeras entran con PIN, buscan producto
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [Proyecto-Aula](https://github.com/santi382/Proyecto-Aula) | Red social tipo Instagram, con la API y la app juntas | Laravel, Ionic, Angular |
-| [insta-api](https://github.com/santi382/insta-api) | La API de esa red social: registro, publicaciones, comentarios, likes y amistades | Laravel 12, PHP, Sanctum |
-| [instaIonic](https://github.com/santi382/instaIonic) | La app móvil: feed, perfil, amigos, publicar y chat | Ionic, Angular 20, Capacitor |
+| [insta-api](https://github.com/santi382/insta-api) | Backend de una red social tipo Instagram: registro, publicaciones, comentarios, likes y amistades. La desplegamos en Azure | Laravel 12, PHP, Sanctum, Azure |
+| [instaIonic](https://github.com/santi382/instaIonic) | La app móvil de esa red social: feed, perfil, amigos, publicar y chat | Ionic, Angular 20, Capacitor |
+| [Proyecto-Aula](https://github.com/santi382/Proyecto-Aula) | Primera versión de la red social, con la API y la app juntas | Laravel, Ionic, Angular |
 | [PARCIAL](https://github.com/santi382/PARCIAL) | DigiDex, app que consume la Digimon API | Ionic, Angular |
 | [parcial-Desarrollo-de-app](https://github.com/santi382/parcial-Desarrollo-de-app) | Tienda con login, carrito e historial | Ionic, Angular |
 
